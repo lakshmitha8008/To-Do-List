@@ -1,27 +1,27 @@
 📝 To-Do List App
 
-A simple and stylish To-Do List App built with HTML, CSS, and JavaScript. This app allows users to add, check, and remove tasks, with data stored in localStorage to persist across browser refreshes.
+A simple To-Do List App built with HTML, CSS, and JavaScript that allows users to add, check, and delete tasks. The tasks persist in localStorage, ensuring that they remain saved even after refreshing the page.
 
-✨ Features
-✅ Add tasks dynamically
-✅ Mark tasks as completed (with a strikethrough effect)
-✅ Remove tasks with a delete button (×)
-✅ Data persistence using localStorage
-✅ Responsive and user-friendly design
+✨ Features:
 
-🚀 Technologies Used
+📌 Add new tasks to the list.
+✅ Click on a task to mark it as completed.
+❌ Delete tasks by clicking the close (×) button.
+🔄 Tasks persist in localStorage, so they remain saved after refresh.
+🎨 Responsive and modern UI with a gradient background.
+
+🚀 Technologies Used:
+
 HTML – Structure of the app
-CSS – Stylish UI with a gradient background
-JavaScript – Logic for task management and localStorage
-📸 Preview
+CSS – Styling and layout
+JavaScript – Dynamic behavior and localStorage integration
 
-📂 Project Structure
-bash
-Copy
-Edit
-📂 To-Do List App
-├── 📜 index.html  # Main HTML file
-├── 🎨 style.css   # Styling for the app
-├── 🎭 script.js   # JavaScript logic
-└── 📁 images/     # Icons and assets
+Project Structure:
+
+To-Do List  
+📄 index.html       # Main HTML file  
+🎨 style.css        # Styling for the app  
+⚙️ script.js        # JavaScript logic  
+📁 images/         # Icons for checked and unchecked tasks  
+
 
