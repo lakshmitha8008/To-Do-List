@@ -24,4 +24,9 @@ To-Do List
 ⚙️ script.js        # JavaScript logic  
 📁 images/         # Icons for checked and unchecked tasks  
 
+OUTPUT:
+![WhatsApp Image 2025-02-05 at 13 26 45_7b300ca5](https://github.com/user-attachments/assets/00bb4628-ac90-4b33-9077-9afbaf94fa60)
+![WhatsApp Image 2025-02-05 at 13 27 02_663ea768](https://github.com/user-attachments/assets/ee099586-d88e-4393-97ff-a04125bf95bd)
+![WhatsApp Image 2025-02-05 at 13 27 11_deadd294](https://github.com/user-attachments/assets/9752870a-9190-4f6d-b11d-05a4faf1a5c6)
+
 
