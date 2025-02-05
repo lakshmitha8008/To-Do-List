@@ -1,4 +1,5 @@
 📝 To-Do List App
+
 A simple and stylish To-Do List App built with HTML, CSS, and JavaScript. This app allows users to add, check, and remove tasks, with data stored in localStorage to persist across browser refreshes.
 
 ✨ Features
